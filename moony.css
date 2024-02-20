@@ -10,8 +10,8 @@
 /* MAIN CSS */
 
 .moony {
-  width: auto;
-  height: auto;
+  width: 100vw;
+  height: 100vh;
   margin: 0px auto;
   position: relative;
 }
